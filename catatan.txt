@@ -1,1 +1,2 @@
 Ini adalah catatan pertama saya di GitHub
+Teks ini ditambahkan khusus dari branch eksperimen-pertama.
